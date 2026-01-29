@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cow_23.jpg</filename>
+	<path>/home/haris/cow_project/yolo_dataset/images/train/cow_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>160</width>
+		<height>120</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>26</ymin>
+			<xmax>70</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,8 @@
+# Train/Val paths (Absolute paths are safest on Linux)
+path: /home/haris/cow_project/yolo_dataset
+train: images/train
+val: images/val
+
+# Classes
+nc: 1  # Number of classes
+names: ['eye']  # Class names
